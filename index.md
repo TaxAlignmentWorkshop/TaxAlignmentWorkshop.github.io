@@ -1,6 +1,6 @@
 ---
 title: Taxonomy Alignment Workshop
-date: September 18, 2017
+date: last updated September 18, 2017
 ---
 
 # Welcome
